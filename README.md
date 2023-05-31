@@ -1,4 +1,4 @@
- # 💫 Hi there :wave:, me chamo Pedro Rafael:
+ # 💫 Hi there :wave:, i am  Pedro Rafael:
 Sou um programador front-end
  <br>
  Bom, sou um apaixonado por tecnologia sempre gostei da area 
