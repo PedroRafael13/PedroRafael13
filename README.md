@@ -12,7 +12,7 @@
 
   - 🌱 I’m currently a freelance developer
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with programming, i love this area too much, I love be programmer💙
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with programming, I love this are so much, I love being a programmer💙
 </p>
 
 <details>
@@ -59,7 +59,10 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
+
+<br>
 
 <div style="flex-basis: 48%;">
   <h3>Tools & Frameworks</h3>
