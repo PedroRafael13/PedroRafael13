@@ -30,7 +30,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
-[![spotify-github-profile]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zepdz157jzz64esbcjyf6yx3i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zepdz157jzz64esbcjyf6yx3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]])
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zepdz157jzz64esbcjyf6yx3i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zepdz157jzz64esbcjyf6yx3i)
 
 <br>
 
