@@ -71,5 +71,5 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Obrigado pela visita, volte sempr 🤖</h1></summary>
+    <summary><h1 style="display: inline-block">Obrigado pela visita, volte sempre 🤖</h1></summary>
 </div>
